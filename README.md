@@ -65,3 +65,39 @@ It includes user stories, acceptance criteria, sprint setup, and a burndown char
 
 ---
 
+# Final Git Project – Coursera DevOps
+
+This repository is part of the **Introduction to DevOps and Software Engineering** Coursera course.  
+It demonstrates the use of GitHub UI and Git CLI to manage a repository using real-world DevOps practices.
+
+---
+
+## 📋 Project Overview
+
+This project covers:
+- Creating and managing a GitHub repository.
+- Adding required open-source documentation files.
+- Writing and executing a simple shell script.
+- Practicing branching, merging, and pull requests using Git CLI.
+
+---
+
+## 📂 Repository Files
+
+| File | Description |
+|------|--------------|
+| LICENSE | Apache 2.0 license file for open-source compliance |
+| CODE_OF_CONDUCT.md | Defines rules for contributing respectfully |
+| CONTRIBUTING.md | Guidelines for contributing to this repository |
+| simple-interest.sh | Bash script to calculate simple interest |
+
+---
+
+## ⚙️ How to Run the Script
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/final-git-project.git
+   cd final-git-project
+
+
